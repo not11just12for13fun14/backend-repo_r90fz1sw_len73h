@@ -1,0 +1,25 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [149] using StatReload
+INFO:     Started server process [151]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:57340 - "GET /testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57354 - "GET /services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57346 - "GET /team HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57362 - "GET /testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57374 - "GET /team HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57370 - "GET /services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57384 - "HEAD / HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:57390 - "GET /services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57400 - "GET /team HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57402 - "GET /team HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57408 - "GET /testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57420 - "GET /testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57426 - "GET /services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57136 - "GET /services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57152 - "GET /services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57162 - "GET /testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57170 - "GET /testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57180 - "GET /team HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57190 - "GET /team HTTP/1.1" 200 OK
